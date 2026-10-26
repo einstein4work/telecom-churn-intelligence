@@ -17,6 +17,7 @@ data/processed/*
 # Models
 models/*.pkl
 models/*.joblib
+!models/churn_model.joblib
 
 # OS
 .DS_Store
